@@ -3,7 +3,7 @@ const getData = () => {
     {
       src: `https://source.unsplash.com/random/500x500?sig=${Math.floor(Math.random() * 999)}`,
       height: 500,
-      author: 'Awesome'
+      author: 'Aditya'
     }, {
       src: `https://source.unsplash.com/random/500x400?sig=${Math.floor(Math.random() * 999)}`,
       height: 400,
